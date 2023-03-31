@@ -1,6 +1,6 @@
 # Engenharia de Software
 
-![IFPR Campus Cascavel](https://github.com/pauloalfeu/WebDev-I---2023/blob/9636075c32123ddadace715cb5679fc9d0b4e97c/Ex%20001%20-%20Site%20de%20Viagens/ifprlogo.png)
+![IFPR Campus Cascavel](https://github.com/pauloalfeu/eng-software/blob/a59b25cda1b6d41be94f1706a0ae855ddd52f734/ifprlogo.png)
 - **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas
 - **Professor:** Nelson Bellincanta Filho.
 - **Aluno:** Paulo Alfeu Scherbai Martins.
